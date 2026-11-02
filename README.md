@@ -1,10 +1,10 @@
 # MEP Project Cost Analysis
 
-**A simulated case study.** Apex MEP Services Ltd., its projects, suppliers, clients and every figure below are fictional. The data comes from a Project Operations Analyst simulation brief (see [`docs/project-brief.md`](docs/project-brief.md)) and contains intentional data-quality issues. None of it describes a real company.
+**A simulated case study.** Apex MEP Services Ltd., its projects, suppliers, clients and every figure below are fictional. The data comes from a Project Operations Analyst simulation and contains intentional data-quality issues. None of it describes a real company.
 
 ![Cost & supply page of the MEP Project Operations dashboard](assets/dashboard-cost-supply.png)
 
-*Cost & supply page of the dashboard. Static snapshot as of 16 Oct 2026, not a live feed. The dashboard is `dashboard/index.html`: one offline file, open it in a browser.*
+*Cost & supply page of the dashboard. Static snapshot as of 16 Oct 2026, not a live feed. The dashboard is `assets/index.html`: one offline file, open it in a browser.*
 
 | | |
 |---|---|
