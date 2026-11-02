@@ -2,7 +2,7 @@
 
 **A simulated case study.** Apex MEP Services Ltd., its projects, suppliers, clients and every figure below are fictional. The data comes from a Project Operations Analyst simulation brief (see [`docs/project-brief.md`](docs/project-brief.md)) and contains intentional data-quality issues. None of it describes a real company.
 
-![Cost & supply page of the MEP Project Operations dashboard](docs/images/dashboard-cost-supply.png)
+![Cost & supply page of the MEP Project Operations dashboard](assets/dashboard-cost-supply.png)
 
 *Cost & supply page of the dashboard. Static snapshot as of 16 Oct 2026, not a live feed. The dashboard is `dashboard/index.html`: one offline file, open it in a browser.*
 
@@ -107,5 +107,5 @@ analysis/                   Excel workbook (hidden sheets hold the 11 source tab
 ```
 
 
-![Delivery page](docs/images/dashboard-delivery.png)
-![Cash & controls page](docs/images/dashboard-cash-controls.png)
+![Delivery page](assets/dashboard-delivery.png)
+![Cash & controls page](assets/dashboard-cash-controls.png)
