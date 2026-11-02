@@ -1,0 +1,81 @@
+ProjectID,ClientID,ClientName,ClientSector,ProjectType,City,ProjectManagerID,PlannedStartDate,PlannedEndDate,ActualStartDate,ActualEndDate,ContractValueNGN,ApprovedBudgetNGN,Status
+PRJ001,CL011,Prime Bank Nigeria,Financial Services,Data Centre,Lagos,PM04,2025-02-12,2025-10-19,2025-02-18,2025-11-03,198357000.0,160982000.0,Completed
+PRJ002,CL006,BrightPath Schools,Education,Healthcare Facility,Port Harcourt,PM06,2025-04-07,2025-07-12,2025-04-11,2025-08-07,410371000.0,338872000.0,Completed
+PRJ003,CL001,Apex Commercial Properties,Commercial,Commercial Fit-Out,Ibadan,PM02,2025-09-04,2025-12-16,2025-09-03,2026-01-03,202902000.0,172118000.0,Completed
+PRJ004,CL008,Greenfield Estates,Residential,Office Renovation,Benin City,PM04,2026-01-11,2026-08-18,2026-01-11,2026-09-06,349991000.0,257719000.0,In Progress
+PRJ005,CL003,Lagos Medical Centre,Healthcare,Hospitality,Abuja,PM06,2025-02-14,2025-09-01,2025-02-19,2025-10-01,50208000.0,40220000.0,Completed
+PRJ006,CL010,Summit Retail Group,Retail,Retail Development,Lagos,PM02,2025-03-21,2025-11-21,2025-03-28,2025-11-23,165038000.0,139110000.0,Completed
+PRJ007,CL005,Crestline Hotels,Hospitality,Industrial Facility,Port Harcourt,PM04,2025-11-22,2026-07-30,2025-11-23,2026-08-12,101882000.0,72031000.0,Completed
+PRJ008,CL012,Vertex Data Centres,Technology,Residential Development,Ibadan,PM06,2025-09-20,2026-01-07,2025-09-24,2026-02-09,294804000.0,251999000.0,Completed
+PRJ009,CL007,Harbour Point Offices,Commercial,Data Centre,Benin City,PM02,2025-07-17,2025-12-12,2025-07-18,2025-12-14,171332000.0,125126000.0,Completed
+PRJ010,CL002,Westbridge Developments,Real Estate,Healthcare Facility,Abuja,PM04,2025-08-11,2025-11-23,2025-08-08,2026-01-08,212903000.0,171849000.0,Completed
+PRJ011,CL009,Orion Logistics,Industrial,Commercial Fit-Out,Lagos,PM06,2026-03-28,2026-09-17,2026-04-01,2026-10-09,353908000.0,265423000.0,In Progress
+PRJ012,CL004,Nexa Foods Nigeria,Manufacturing,Office Renovation,Port Harcourt,PM02,2026-01-04,2026-09-23,2026-01-04,2026-10-23,342882000.0,255835000.0,In Progress
+PRJ013,CL011,Prime Bank Nigeria,Financial Services,Hospitality,Ibadan,PM04,2025-04-25,2025-12-09,2025-04-22,2026-01-07,80202000.0,56236000.0,Completed
+PRJ014,CL006,BrightPath Schools,Education,Retail Development,Benin City,PM06,2026-01-18,2026-09-27,2026-01-22,2026-10-13,287616000.0,237259000.0,In Progress
+PRJ015,CL001,Apex Commercial Properties,Commercial,Industrial Facility,Abuja,PM02,2025-09-24,2026-03-21,2025-09-20,2026-03-22,249653000.0,179332000.0,Completed
+PRJ016,CL008,Greenfield Estates,Residential,Residential Development,Lagos,PM04,2025-07-31,2026-03-13,2025-08-02,2026-04-12,211083000.0,173595000.0,Completed
+PRJ017,CL003,Lagos Medical Centre,Healthcare,Data Centre,Port Harcourt,PM06,2025-10-03,2026-05-08,2025-10-05,2026-05-11,243664000.0,182415000.0,Completed
+PRJ018,CL010,Summit Retail Group,Retail,Healthcare Facility,Ibadan,PM02,2025-10-17,2026-01-06,2025-10-14,2026-02-10,197503000.0,151162000.0,Completed
+PRJ019,CL005,Crestline Hotels,Hospitality,Commercial Fit-Out,Benin City,PM04,2026-04-22,2027-01-14,2026-04-17,2027-02-12,117406000.0,87470000.0,On Hold
+PRJ020,CL012,Vertex Data Centres,Technology,Office Renovation,Abuja,PM06,2026-03-17,2026-08-05,2026-03-19,2026-08-09,286457000.0,236448000.0,Completed
+PRJ021,CL007,Harbour Point Offices,Commercial,Hospitality,Lagos,PM02,2026-04-24,2026-12-04,2026-04-29,2026-12-19,185523000.0,134822000.0,In Progress
+PRJ022,CL002,Westbridge Developments,Real Estate,Retail Development,Port Harcourt,PM04,2025-06-10,2025-08-29,2025-06-14,2025-09-25,60569000.0,46874000.0,Completed
+PRJ023,CL009,Orion Logistics,Industrial,Industrial Facility,Ibadan,PM06,2025-12-11,2026-04-01,2025-12-07,2026-05-04,222913000.0,180874000.0,Completed
+PRJ024,CL004,Nexa Foods Nigeria,Manufacturing,Residential Development,Benin City,PM02,2025-08-26,2026-02-17,2025-08-24,2026-02-25,175503000.0,140551000.0,Completed
+PRJ025,CL011,Prime Bank Nigeria,Financial Services,Data Centre,Abuja,PM04,2025-10-19,2026-03-24,2025-10-15,2026-04-05,59622000.0,50911000.0,Completed
+PRJ026,CL006,BrightPath Schools,Education,Healthcare Facility,Lagos,PM06,2025-06-25,2026-03-31,2025-06-23,2026-04-16,301384000.0,257704000.0,Completed
+PRJ027,CL001,Apex Commercial Properties,Commercial,Commercial Fit-Out,Port Harcourt,PM02,2025-05-07,2026-01-12,2025-05-07,2026-02-09,308172000.0,229144000.0,Completed
+PRJ028,CL008,Greenfield Estates,Residential,Office Renovation,Ibadan,PM04,2025-02-08,2025-05-15,2025-02-08,2025-05-19,381528000.0,279423000.0,Completed
+PRJ029,CL003,Lagos Medical Centre,Healthcare,Hospitality,Benin City,PM06,2025-12-13,2026-05-05,2025-12-10,2026-05-24,253792000.0,212439000.0,Completed
+PRJ030,CL010,Summit Retail Group,Retail,Retail Development,Abuja,PM02,2025-01-10,2025-09-12,2025-01-10,2025-10-05,309188000.0,247465000.0,Completed
+PRJ031,CL005,Crestline Hotels,Hospitality,Industrial Facility,Lagos,PM04,2025-03-09,2025-10-01,2025-03-05,2025-10-23,281689000.0,215923000.0,Completed
+PRJ032,CL012,Vertex Data Centres,Technology,Residential Development,Port Harcourt,PM06,2026-01-13,2026-04-07,2026-01-12,2026-04-13,220126000.0,159178000.0,Completed
+PRJ033,CL007,Harbour Point Offices,Commercial,Data Centre,Ibadan,PM02,2025-11-22,2026-02-28,2025-11-19,2026-03-28,257120000.0,218043000.0,Completed
+PRJ034,CL002,Westbridge Developments,Real Estate,Healthcare Facility,Benin City,PM04,2026-04-21,2026-11-12,2026-04-23,2026-12-04,162014000.0,114001000.0,In Progress
+PRJ035,CL009,Orion Logistics,Industrial,Commercial Fit-Out,Abuja,PM06,2025-03-14,2025-12-29,2025-03-19,2026-02-18,215510000.0,153710000.0,Completed
+PRJ036,CL004,Nexa Foods Nigeria,Manufacturing,Office Renovation,Lagos,PM02,2025-05-13,2025-11-13,2025-05-20,2025-11-28,218829000.0,173198000.0,Completed
+PRJ037,CL011,Prime Bank Nigeria,Financial Services,Hospitality,Port Harcourt,PM04,2025-09-18,2026-03-18,2025-09-17,2026-04-21,130455000.0,102186000.0,Completed
+PRJ038,CL006,BrightPath Schools,Education,Retail Development,Ibadan,PM06,2026-02-12,2026-08-04,2026-02-17,2026-08-17,33537000.0,28285000.0,Completed
+PRJ039,CL001,Apex Commercial Properties,Commercial,Industrial Facility,Benin City,PM02,2025-09-18,2026-01-02,2025-09-14,2026-01-13,243844000.0,196918000.0,Completed
+PRJ040,CL008,Greenfield Estates,Residential,Residential Development,Abuja,PM04,2025-02-27,2025-07-15,2025-03-03,2025-08-10,285472000.0,234939000.0,Completed
+PRJ041,CL003,Lagos Medical Centre,Healthcare,Data Centre,Lagos,PM06,2025-06-03,2025-09-10,2025-05-31,2025-10-15,386825000.0,273093000.0,Completed
+PRJ042,CL010,Summit Retail Group,Retail,Healthcare Facility,Port Harcourt,PM02,2025-03-09,2025-09-24,2025-03-14,2025-10-05,171514000.0,142240000.0,Completed
+PRJ043,CL005,Crestline Hotels,Hospitality,Commercial Fit-Out,Ibadan,PM04,2026-04-08,2026-09-01,2026-04-06,2026-09-23,401395000.0,314055000.0,In Progress
+PRJ044,CL012,Vertex Data Centres,Technology,Office Renovation,Benin City,PM06,2026-03-11,2026-07-21,2026-03-08,2026-07-27,394737000.0,279152000.0,Completed
+PRJ045,CL007,Harbour Point Offices,Commercial,Hospitality,Abuja,PM02,2025-05-24,2025-11-12,2025-05-30,2025-12-22,416988000.0,341837000.0,Completed
+PRJ046,CL002,Westbridge Developments,Real Estate,Retail Development,Lagos,PM04,2026-02-10,2026-11-12,2026-02-11,2026-11-16,377911000.0,283641000.0,In Progress
+PRJ047,CL009,Orion Logistics,Industrial,Industrial Facility,Port Harcourt,PM06,2025-01-11,2025-09-16,2025-01-10,2025-09-30,286356000.0,204777000.0,Completed
+PRJ048,CL004,Nexa Foods Nigeria,Manufacturing,Residential Development,Ibadan,PM02,2025-12-20,2026-08-20,2025-12-27,2026-08-20,128672000.0,95031000.0,Completed
+PRJ049,CL011,Prime Bank Nigeria,Financial Services,Data Centre,Benin City,PM04,2025-01-16,2025-04-28,2025-01-12,2025-05-30,353290000.0,257436000.0,Completed
+PRJ050,CL006,BrightPath Schools,Education,Healthcare Facility,Abuja,PM06,2025-06-26,2026-01-21,2025-06-23,2026-01-22,370452000.0,277710000.0,Completed
+PRJ051,CL001,Apex Commercial Properties,Commercial,Commercial Fit-Out,Lagos,PM02,2026-04-25,2026-12-30,2026-04-26,2027-01-16,408871000.0,295623000.0,In Progress
+PRJ052,CL008,Greenfield Estates,Residential,Office Renovation,Port Harcourt,PM04,2026-03-25,2026-06-11,2026-03-21,2026-06-21,115714000.0,93546000.0,Completed
+PRJ053,CL003,Lagos Medical Centre,Healthcare,Hospitality,Ibadan,PM06,2026-04-11,2026-07-22,2026-04-15,2026-08-24,225000000.0,178420000.0,Completed
+PRJ054,CL010,Summit Retail Group,Retail,Retail Development,Benin City,PM02,2025-07-20,2025-11-16,2025-07-24,2025-11-16,342629000.0,280352000.0,Completed
+PRJ055,CL005,Crestline Hotels,Hospitality,Industrial Facility,Abuja,PM04,2026-02-01,2026-05-16,2026-02-08,2026-07-10,73883000.0,56418000.0,Completed
+PRJ056,CL012,Vertex Data Centres,Technology,Residential Development,Lagos,PM06,2026-04-13,2026-09-02,2026-04-16,2026-09-20,217991000.0,185924000.0,In Progress
+PRJ057,CL007,Harbour Point Offices,Commercial,Data Centre,Port Harcourt,PM02,2025-09-08,2026-01-25,2025-09-03,2026-02-11,390299000.0,307880000.0,Completed
+PRJ058,CL002,Westbridge Developments,Real Estate,Healthcare Facility,Ibadan,PM04,2025-03-13,2025-10-16,2025-03-09,2025-11-11,66829000.0,51262000.0,Completed
+PRJ059,CL009,Orion Logistics,Industrial,Commercial Fit-Out,Benin City,PM06,2025-01-04,2025-10-23,2025-01-11,2025-10-29,260437000.0,215824000.0,Completed
+PRJ060,CL004,Nexa Foods Nigeria,Manufacturing,Office Renovation,Abuja,PM02,2025-07-27,2026-01-23,2025-07-22,2026-02-22,334982000.0,240337000.0,Completed
+PRJ061,CL011,Prime Bank Nigeria,Financial Services,Hospitality,Lagos,PM04,2025-05-19,2026-02-04,2025-05-17,2026-02-20,339743000.0,266672000.0,Completed
+PRJ062,CL006,BrightPath Schools,Education,Retail Development,Port Harcourt,PM06,2026-01-03,2026-08-02,2026-01-05,2026-08-29,367757000.0,281706000.0,Completed
+PRJ063,CL001,Apex Commercial Properties,Commercial,Industrial Facility,Ibadan,PM02,2025-02-27,2025-08-05,2025-03-02,2025-08-09,193223000.0,162075000.0,Completed
+PRJ064,CL008,Greenfield Estates,Residential,Residential Development,Benin City,PM04,2025-05-12,2025-11-05,2025-05-10,2025-11-14,122897000.0,100697000.0,Completed
+PRJ065,CL003,Lagos Medical Centre,Healthcare,Data Centre,Abuja,PM06,2026-02-08,2026-10-24,2026-02-03,2026-11-24,66585000.0,52942000.0,In Progress
+PRJ066,CL010,Summit Retail Group,Retail,Healthcare Facility,Lagos,PM02,2025-06-21,2025-10-06,2025-06-20,2025-10-17,350742000.0,253593000.0,Completed
+PRJ067,CL005,Crestline Hotels,Hospitality,Commercial Fit-Out,Port Harcourt,PM04,2026-03-16,2026-12-23,2026-03-14,2026-12-28,90385000.0,65491000.0,In Progress
+PRJ068,CL012,Vertex Data Centres,Technology,Office Renovation,Ibadan,PM06,2025-08-07,2025-11-15,2025-08-02,2025-12-10,33353000.0,24279000.0,Completed
+PRJ069,CL007,Harbour Point Offices,Commercial,Hospitality,Benin City,PM02,2026-02-03,2026-05-01,2026-02-06,2026-05-19,258502000.0,197232000.0,Completed
+PRJ070,CL002,Westbridge Developments,Real Estate,Retail Development,Abuja,PM04,2026-02-02,2026-06-28,2026-02-08,2026-08-28,224288000.0,187545000.0,Completed
+PRJ071,CL009,Orion Logistics,Industrial,Industrial Facility,Lagos,PM06,2025-09-15,2025-12-08,2025-09-13,2026-01-09,96692000.0,71543000.0,Completed
+PRJ072,CL004,Nexa Foods Nigeria,Manufacturing,Residential Development,Port Harcourt,PM02,2025-11-05,2026-05-27,2025-10-31,2026-06-06,189424000.0,143920000.0,Completed
+PRJ073,CL011,Prime Bank Nigeria,Financial Services,Data Centre,Ibadan,PM04,2026-03-21,2026-09-29,2026-03-26,2026-10-02,65160000.0,46154000.0,In Progress
+PRJ074,CL006,BrightPath Schools,Education,Healthcare Facility,Benin City,PM06,2025-07-13,2026-04-22,2025-07-18,2026-05-22,64150000.0,54170000.0,Completed
+PRJ075,CL001,Apex Commercial Properties,Commercial,Commercial Fit-Out,Abuja,PM02,2025-04-26,2026-02-15,2025-05-01,2026-03-07,341800000.0,274396000.0,Completed
+PRJ076,CL008,Greenfield Estates,Residential,Office Renovation,Lagos,PM04,2025-10-23,2026-06-30,2025-10-24,2026-07-29,78148000.0,61133000.0,Completed
+PRJ077,CL003,Lagos Medical Centre,Healthcare,Hospitality,Port Harcourt,PM06,2026-04-10,2027-01-02,2026-04-10,2027-01-30,207806000.0,166729000.0,In Progress
+PRJ078,CL010,Summit Retail Group,Retail,Retail Development,Ibadan,PM02,2025-04-30,2025-09-11,2025-05-01,2025-09-26,80209000.0,61496000.0,Completed
+PRJ079,CL005,Crestline Hotels,Hospitality,Industrial Facility,Benin City,PM04,2025-10-18,2026-02-22,2025-10-17,2026-03-12,170167000.0,128034000.0,Completed
+PRJ080,CL012,Vertex Data Centres,Technology,Residential Development,Abuja,PM06,2025-07-28,2026-01-04,2025-07-26,2026-02-16,295869000.0,252026000.0,Completed

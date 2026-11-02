@@ -1,0 +1,13 @@
+SupplierID,SupplierName,PrimaryDiscipline,Location,TypicalLeadDays
+SUP001,Eko Electrical Supplies,Electrical,Lagos,14
+SUP002,Prime Cables & Systems,Electrical,Lagos,12
+SUP003,WestAir HVAC,Mechanical,Lagos,18
+SUP004,CoolTech Engineering,Mechanical,Abuja,21
+SUP005,FlowLine Plumbing,Plumbing,Lagos,10
+SUP006,AquaPro Systems,Plumbing,Ibadan,13
+SUP007,BuildCore Materials,General,Lagos,9
+SUP008,Industrial MEP Solutions,Mechanical,Port Harcourt,24
+SUP009,Metro Switchgear,Electrical,Lagos,16
+SUP010,HydroWorks Nigeria,Plumbing,Lagos,15
+SUP011,PrimeSteel Fabrication,Mechanical,,20
+SUP012,NorthStar Electrical,Electrical,Abuja,17
