@@ -102,7 +102,6 @@ Owners are suggestions; the simulation does not say who owns what.
 README.md
 assets/                     Dashboard screenshots
 data/csv                    11 source tables
-doc/                        project-brief
 analysis/                   Excel workbook (hidden sheets hold the 11 source tables)
 ```
 
