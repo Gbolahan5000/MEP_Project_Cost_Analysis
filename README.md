@@ -17,7 +17,7 @@
 
 ## 1. The decision and problem
 
-The brief's stakeholder wanted to know what is actually happening across a portfolio of concurrent projects, what is driving it, and where management should look first. He did not want "another dashboard full of numbers."
+The stakeholder wanted to know what is actually happening across a portfolio of concurrent projects, what is driving it, and where management should look first. He did not want "another dashboard full of numbers."
 
 The calculations in the workbook address the cost side of that request:
 
