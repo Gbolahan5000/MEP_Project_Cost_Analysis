@@ -27,7 +27,7 @@ The calculations in the workbook address the cost side of that request:
 
 ## 2. Data and what I built
 
-**Data.** 11 CSV tables: projects, work orders, labour entries, procurement (purchase orders), suppliers, change orders, invoices, milestones, issues, employees and clients. They were loaded into `workbook/MEP.xlsx` through Power Query and sit in the workbook as hidden sheets.
+11 CSV tables: projects, work orders, labour entries, procurement (purchase orders), suppliers, change orders, invoices, milestones, issues, employees and clients. They were loaded into `analysis/MEP.xlsx` through Power Query and sit in the workbook as hidden sheets.
 
 **What I built in the workbook:**
 
