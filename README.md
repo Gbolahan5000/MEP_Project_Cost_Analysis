@@ -64,7 +64,7 @@ The calculations in the workbook address the cost side of that request:
 
 I documented these rather than correcting them.
 
-**One discrepancy I found and have not resolved:** the workbook's PO quoted total is ₦20,023,165,100, while the dashboard snapshot shows ₦20,023,298,300, a ₦133,200 difference. Both round to ₦20.02bn quoted and a ₦1.39bn / 7.0% uplift, so no conclusion changes, but exact figures differ by that amount between the two artefacts.
+**One discrepancy I found and have not resolved:** the workbook's PO quoted total is ₦20,023,165,100, while the dashboard snapshot shows ₦20,023,298,300, a ₦133,200 difference. Both round to ₦20.02bn quoted and a ₦1.39bn / 7.0% uplift, so no conclusion changes, but exact figures differ by that amount between the two.
 
 **What the dashboard helps a reviewer do:**
 
