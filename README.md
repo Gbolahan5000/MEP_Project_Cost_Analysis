@@ -38,7 +38,7 @@ The calculations in the workbook address the cost side of that request:
   - A ranking of the five projects with the largest material overruns.
   - A drill-down of the top project (PRJ038) by discipline and work category, set beside its 27 purchase orders.
 
-**The dashboard.** I generated `assets/index.html` with Claude (an AI assistant). It reads a reviewed data snapshot (`data.json`) and covers delivery, cost and supply, and cash and controls.
+**The dashboard.** I conducted the analysis and used Claude as an AI-assisted development tool to generate the interactive HTML dashboard. I reviewed the resulting dashboard and its underlying data
 
 ## 3. How I checked the work, and what the dashboard helps review
 
